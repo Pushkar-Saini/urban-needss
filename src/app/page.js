@@ -659,7 +659,7 @@ export default function Home() {
               <div className="contact-item">
                 <span className="contact-item-icon">📧</span>
                 <div className="contact-item-text">
-                  <strong>hello@urbanneeds.in</strong>
+                  <strong>urbanneeds.co.in@gmail.com</strong>
                   Reply within 2 hours
                 </div>
               </div>
@@ -715,7 +715,7 @@ export default function Home() {
             <li><a href="#">Split ACs</a></li>
             <li><a href="#">Window ACs</a></li>
             <li><a href="#">Inverter ACs</a></li>
-            <li><a href="#">All Appliances</a></li>
+            <li><a href="#">Other Appliances</a></li>
           </ul>
         </div>
         <div className="footer-col">
